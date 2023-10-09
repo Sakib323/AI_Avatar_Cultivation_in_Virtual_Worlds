@@ -1,0 +1,3 @@
+I have a strong fascination for anime series like Overlord or Sword Art Online, where the main character finds themselves in a virtual world, possessing incredible god-like abilities.
+These anime series have motivated me to create my own virtual world, where I will nurture AI avatars, striving to make them experience a sense of genuine life. To be precise, I plan to use machine learning to craft illusions that will give these avatars the impression of consciousness.
+By employing VR technology and a neuro-headset, I'll have the capability to explore the virtual realm with administrative privileges, effectively elevating me to a god-like entity within that environment.
