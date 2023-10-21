@@ -1,3 +1,6 @@
+I'm working on an exciting project – an open-world game created in Unity. What sets it apart is that the non-playing characters (NPCs) in the game will be incredibly advanced. They'll have their own text generation model, which allows them to interact with the player and even learn from them as they play the game. To get in on the action, players will need a neuro headset and VR glasses. This game has a wide range of potential applications, from helping with homework to virtual classes and action-packed gaming adventures. It's a whole new level of gaming experience!
+
+
 I have a strong fascination for anime series like Overlord or Sword Art Online, where the main character finds themselves in a virtual world, possessing incredible god-like abilities.
 These anime series have motivated me to create my own virtual world, where I will nurture AI avatars, striving to make them experience a sense of genuine life. To be precise, I plan to use machine learning to craft illusions that will give these avatars the impression of consciousness.
 By employing VR technology and a neuro-headset, I'll have the capability to explore the virtual realm with administrative privileges, effectively elevating me to a god-like entity within that environment.
